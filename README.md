@@ -158,20 +158,29 @@ Function Prototype:
   * Orders the deck from spades to diamonds and from aces to kings.
 
 
-## Authors
+
+## Author :black_nib:
+* [Prince Solomon] [princexz](https://github.com/princexz)
+
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Prince Solomon</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/princexz">Github</a></li>
+    <li><a href="https://www.twitter.com/angelprince_me">Twitter</a></li>
+    <li><a href="mailto:prince_solomon@yahoo.com">e-mail</a></li>
     </ul>
 </details>
-<details>
-    <summary>Mohamed Ibrahima Traore</summary>
-    <ul
-    <li><a href="https://www.github.com/codivily">Github</a></li>
-    <li><a href="https://www.twitter.com/codivily">Twitter</a></li>
-    <li><a href="mailto:codivily@gmail.com">e-mail</a></li>
-    </ul>
-</details>
+
+## Acknowledgements :pray:
+
+All work contained in this project was completed as part of the curriculum for the ALX-SE programme. ALX Africa is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit [this link](https://www.alxafrica.com//):
+
+
+<p align="center">
+  <img src="http://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"
+    alt="ALX Africa Logo"
+  >
+  </p>
+
+
+
